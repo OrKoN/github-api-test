@@ -1,0 +1,14 @@
+{
+  "name": "github-api-test",
+  "version": "0.1.0",
+  "description": "API for getting GitHub users by language with pagination.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Alex R.",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.4.7",
+    "github": "8.2.1",
+    "koa": "2.0.0-alpha.8"
+  }
+}
